@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: black;
+    background-color: red;
+}
+
+header a {
+    color:  white;
+}
+
+header img {
+    border: 10px solid red;
+}
